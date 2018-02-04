@@ -2,7 +2,7 @@
 
 Authors: Tanvir Sarkar, Andrew Koung
 
-This is a console based client-server app for managing various types of bank accounts. Different types of accounts can be created (such as savings, chequing) and various actions can be performed at each user input prompt (such as deposit/withdrawl, account search, account creation). This was an assignment as part of an OOP in Java course at Seneca, focusing on RMI. 
+This is a console based client-server app (with Swing UI components) for managing various types of bank accounts. Different types of accounts can be created (such as savings, chequing, GIC) and various actions can be performed at each user input prompt (such as deposit/withdrawl, account search, account creation, etc.). This was an assignment as part of an OOP in Java course at Seneca, focusing on RMI. 
 
 ## Instructions
 
