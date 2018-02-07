@@ -15,3 +15,8 @@ This is a console based client-server app (with Swing UI components) for managin
 	- client: `java -cp . edu.btp400.w2017.client.RMIClient`
 
 Note: Substitute `\ for /` on Linux systems.
+
+## Screenshots
+
+![](java_bank_1.png)
+![](java_bank_2.png)
